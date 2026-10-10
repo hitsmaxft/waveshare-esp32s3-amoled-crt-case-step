@@ -1,6 +1,8 @@
 # ESP32-S3 Touch AMOLED 2.16 CRT 外壳 — STEP 与尺寸规格
 
-这是适配 Waveshare ESP32-S3-Touch-AMOLED-2.16 的小型 CRT 风格外壳 **Fusion v50** 原生 BRep STEP 导出。全部尺寸单位为 **mm**。公开仓库只提供本版 STEP 和这份规格文档；独立零件 STEP 保留装配坐标。
+这是适配 Waveshare ESP32-S3-Touch-AMOLED-2.16 的小型 CRT 风格外壳 **Fusion v50** 原生 BRep STEP 导出。全部尺寸单位为 **mm**。仓库包含本版 STEP、尺寸规格与模型截图；独立零件 STEP 保留装配坐标。
+
+![Fusion v50 外壳多视角及爆炸装配截图](images/multiview-v50.png)
 
 ## 文件
 
